@@ -1,0 +1,2 @@
+SELECT STRING_AGG(Name, ', ') AS AllNames
+FROM Employees;
